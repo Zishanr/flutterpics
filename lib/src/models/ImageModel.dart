@@ -5,6 +5,7 @@ class ImageModel {
   String url;
   String title;
 
+  // Unnamed Constructor
   ImageModel(this.id, this.url, this.title);
 
   // Named Constructor
