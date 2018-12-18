@@ -1,4 +1,4 @@
-# pics
+# Image List
 
 A demo Flutter application.
 
