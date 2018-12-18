@@ -6,8 +6,8 @@ For help getting started with Flutter, view the online
 [documentation](https://flutter.io/).
 
 ## Demo
-<img src="https://github.com/Zishanr/flutterpics/blob/master/screenshot/Screenshot_1545141718.png" width="250" height="250">
-![Screenshot](https://github.com/Zishanr/flutterpics/blob/master/screenshot/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202018-12-18%20at%2019.32.01.png)
+<img src="https://github.com/Zishanr/flutterpics/blob/master/screenshot/Screenshot_1545141718.png" width="500" height="500">
+<img src="https://github.com/Zishanr/flutterpics/blob/master/screenshot/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202018-12-18%20at%2019.32.01.png" width="500" height="500">
 
 ## Getting Started
 
