@@ -2,6 +2,13 @@
 
 A demo Flutter application.
 
+This project is just a start with flutter. In this project i got knowledge about following 
+1. What are Widgets
+2. Types of widget and when to use which one - Statefull, Stateless.
+3. Making and Http request(get) in flutter and parsing the response.
+4. Diffrent way of styles.
+5. Creating ListView widget.
+
 For help getting started with Flutter, view the online
 [documentation](https://flutter.io/).
 
