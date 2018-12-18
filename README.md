@@ -1,7 +1,6 @@
 # pics
 
 A new Flutter application.
-Screenshot_1545141718.png
 
 ## Getting Started
 
