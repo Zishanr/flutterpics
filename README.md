@@ -1,6 +1,13 @@
 # pics
 
-A new Flutter application.
+A demo Flutter application.
+
+For help getting started with Flutter, view the online
+[documentation](https://flutter.io/).
+
+## Demo
+![Screenshot](https://github.com/Zishanr/flutterpics/blob/master/screenshot/Screenshot_1545141718.png)
+![Screenshot](https://github.com/Zishanr/flutterpics/blob/master/screenshot/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202018-12-18%20at%2019.32.01.png)
 
 ## Getting Started
 
