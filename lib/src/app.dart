@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart'
     show
         get,
-        Response; // Importing just get function from http package instead of whole package
+        Response; // Importing just get and Response function from http package instead of whole package
 import './models/ImageModel.dart';
 import 'dart:convert'; // To get json object -> to convert raw data to json object.
 import 'widgets/ImageList.dart';
@@ -38,9 +38,7 @@ class AppState extends State<App> {
         appBar: AppBar(
           title: Text('Let see some images!'),
         ),
-        body: ImageList(
-          images
-        ),
+        body: ImageList(images),
         floatingActionButton: FloatingActionButton(
           onPressed: fetchImage,
           child: Icon(
