@@ -20,7 +20,7 @@ For help getting started with Flutter, view the online
 </p>
 
 <p align="center">
-<img src="https://github.com/Zishanr/flutterpics/blob/master/screenshot/ScreenRecording20181229at9.gif" width="500" height="600">
+<img src="https://github.com/Zishanr/flutterpics/blob/master/screenshot/ScreenRecording20181229at9.gif" width="600" height="600">
 </p>
 
 
