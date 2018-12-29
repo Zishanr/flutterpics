@@ -13,11 +13,16 @@ For help getting started with Flutter, view the online
 [documentation](https://flutter.io/).
 
 ## Demo
-### Android
+### Android & IOS screenshots
+<p align="center">
 <img src="https://github.com/Zishanr/flutterpics/blob/master/screenshot/Screenshot_1545141718.png" width="300" height="500">
-
-### IOS
 <img src="https://github.com/Zishanr/flutterpics/blob/master/screenshot/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202018-12-18%20at%2019.32.01.png" width="300" height="500">
+</p>
+
+<p align="center">
+<img src="https://github.com/Zishanr/flutterpics/blob/master/screenshot/ScreenRecording20181229at9.gif" width="315" height="600">
+</p>
+
 
 ## Dependencies
 
